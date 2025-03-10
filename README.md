@@ -57,7 +57,7 @@ A modern flight booking platform with AI-powered search capabilities, built with
 
 1. Clone the repository:
    ```bash
-   git clone https:
+   git clone https:https://github.com/shobhitmalkhede/AI-Flight-Booking-System.git
    ```
 
 2. Navigate to the project directory:
